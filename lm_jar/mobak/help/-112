@@ -1,0 +1,7 @@
+﻿0 There are several buildings in the town that can be improved up to 10 times and whose improvements will boost the hero's individual abilities.
+0 Temple gives a 10% morale bonus to the town defenders.
+0 Wall gives a 10% defence bonus to the defenders.
+0 Smithy gives a 10% attack bonus to the defenders.
+0 Tower gives a 10% First Strike bonus to the defenders.
+0 Market gives a 10% bonus to the town income.
+0 The town generates an income every real-time hour. The default income is 1'000'000 gold coins, but it can be boosted through Market improvements. The town's income is divided among all members of the Order whose rank is not lower than Knight.

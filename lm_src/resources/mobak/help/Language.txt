@@ -1,0 +1,309 @@
+﻿
+1 Exit
+10 Password
+100 Leave
+101 <%0%> left to level <%1%>
+102 Level
+103 Features
+104 Abilities
+105 Impossible
+106 Cancel
+107 Name
+108 Health
+109 Morale
+11 Login (e-mail given at registration)
+110 from
+111 Relocation
+112 moves <%0%> square(s)
+113 limits
+114 unlimited
+115 remote
+116 close
+117 Defence
+118 Options
+119 Empty
+12 Max burst size (bytes)
+120 The chest is empty.
+121 Flush the cache
+122 Clear
+123 Not enough mana
+124 Agree
+125 Town Gate
+126 You don't have the appropriate item.
+127 Connection error 
+128 Do you want to contunue waiting?
+129 Send
+13 Burst speed (sec)
+130 Take maximum
+131 Leave all
+132 You don't have magic scrolls.
+133 You don't have any items.
+134 Available experience
+135 Attention
+136 There's no experience available.
+137 You've reached the maximum of free experience.
+138 Keyboard settings
+139 Softkeys settings
+14 Connection retry attempts
+140 Please press 
+141 left softkey
+142 right softkey
+143 Settings saved
+144 Next level
+145 There's still available experience left; if you quit now, it will be lost.
+146 Close
+147 Server disconnected, reconnecting
+148 Accept
+149 Buy/Sell
+15 Encoding
+150 Look into
+151 History
+152 Next page
+153 Previous page
+154 Rooms
+155 Message to room
+156 Send
+157 Reply
+158 New message
+159 Private message
+16 Lordmancer server 
+160 Who's here
+161 Close menu
+162 Back to room
+163 Number
+164 Danger
+165 You can't leave the town without an army.
+166 You can't attack - it's neutral territory.
+167 Invitation
+168 Your login is already being used on another phone.
+169 Back to game
+17 Port
+170 Authorisation failed. Check your account settings in Мain Мenu. You can login here http\://<?177?><?204?><?268?> Go to site?
+171 Version
+172 Reserve
+173 Warehouse
+174 Located in
+175 Dismiss
+176 Throw away
+179 Buy Crystals
+18 Race
+180 You're about to send SMS "<%5%><%4%>id<%heroid%>" to <%0%> to buy Crystals. It will cost <%1%> <%2%> and you will get <%3%> Crystal(s). Press "<?215?>"
+181 Finances
+182 You've got nothing to offer for exchange.
+183 An enemy army wants to join you.
+184 Do you agree?
+185 Quit game?
+186 Divide
+187 Merge
+188 Purchase request successful. Your game account will be replenished within several minutes. If you haven't received your Crystals, please let our tech support know (in Acquiring Crystals).
+189 SMS hasn't been sent. To buy Crystals, go to Acquiring Crystals.
+19 Elves
+190 End turn
+191 Take all
+192 Are you sure you want to quit and cancel changes? 
+193 Put on everything
+194 Town
+195 You can hire troops and buy weapons here.
+196 Village 
+197 You can reinforce your army here.
+198 This chest may contain useful items.
+199 Someone left his stuff here.
+2 Login
+20 Dwarfs
+200 Gateway
+201 You can teleport to other Lands through a Gateway.
+202 Hire
+203 Seize
+204 Lordmancer
+205 Not enough money
+206 To teleport to <%0%> you must pay <%1%> coins.
+207 <<<
+208 Update
+209 Your army bogged down in the battle. You can escape, but you will lose both your army and part of your experience. Still, you will keep your items and money. 
+21 Orcs
+210 There isn't enough room in your bag. You've taken only some of the items.
+211 You cannot take this item - you have no room in your bag.
+212 Buy Crystals
+213 Select your country
+214 Select how many Crystals
+215 Buy Crystals
+216 You can't buy Crystals at the moment.
+217 coins
+218 Create
+219 Clan Guild
+22 Undead
+220 Application 
+221 Candidates
+222 Members
+223 Promote 
+224 Degrade
+225 Expel
+226 Retire
+227 Decline
+228 Towns
+229 You don't have enough Crystals.
+23 People
+230 Crystal
+231 You can buy Crystals via SMS.
+232 You can exchange one Crystal for <%0%> coins.
+233 Premium
+234 As long as your Premium Account is activated you will receive double experience points for military victories and your troops will serve you 20% longer for the same fee. To activate your Premium Account, please indicate for how long you want it and press OK.
+235 since 
+236 till 
+237 Search
+238 Hide
+239 Show
+24 Elves
+240 OK
+241 Complain
+242 Coins
+243 Crystals
+244 You are about to complain of a message you received. Continue?
+245 Improve
+246 Do you really want to disband this brigade?
+247 Do you really want to drop this item?
+248 Call
+249 Show hints
+25 Dwarfs
+250 Add
+251 Delete
+252 Ignore
+253 3 hours
+254 6 hours
+255 24 hours
+256 1 week
+257 For a month your hero will look like this to other players. Continue?
+258 You can change the icon representing your hero on the map. This will cost you 10 Crystals per month.
+259 Icon
+26 Orcs
+260 time-activation key
+261 Stats
+262 If you wish, you may redistribute your experience points between different abilities. One Crystal allows to redistribute <%0%> point(s) of experience. Between 1 and 50, how many Crystals are you willing to spend on this?
+263 You are about to redistribute your ability stats. You will have to pay some Crystals for that. Continue?
+264 Donation
+265 The gods of Quiltlands can move you and your army to a safe place and you will not lose anything. However, there is a suggested donation of <%0%> for this divine intervention. 
+267 Friend
+269 Journal
+27 Undead
+270 Current
+271 Completed
+272 Failed
+273 Artefacts
+274 Auction
+275 Forum
+276 Want to buy?
+277 This spell will use <%0%> out of <%1%> point(s) of mana.
+278 Server sent an empty list of short numbers. Try to flush the cache and restart the game.
+279 User name (this is how you'll be seen on the Forum)
+28 People
+280 Hero's name
+281 Hero's race
+282 Elves are a very withdrawn and isolated race. There are nearly no facts about how they first appeared in Quiltlands or about their culture. Elves cannot use items made by other races and never hire alien warriors. Elves' troops are not numerous, but they are very skillful in battle. Elves have excellent magic skills.
+283 Dwarfs are businesslike and rich. Their underground storages are full of gold; they spend it on good weapon and armour. Not especially powerful in direct fighting, Dwarfs can very well disguise and hide their warriors. Defence is their strong point. The only race they treat friendly is People.
+284 Orcs are an aggressive race. Their warriors possess high speed and strength when attacking. However, defence is their weak point. Orcs often attack locals, rob towns and enslave civilians, which is why other races are hostile to them. People are the only race that tolerates Orcs. Unlike other races, Orcs cannot have the neutral Dragons, Magicians and Banshees join them.
+285 Ancient necromancers could raise people and other creatures from the dead. The resurrected were called the Undead and, as they inherited some of the necromantic craft, they have been developing and perfecting it over thousands of years. Now the armies of the Undead are numerous and strong. They possess great magic skills. Some believe that it was the Undead who were involved in the collapse of what used to be a solid world into a patchwork of disparate races. Except for People, all other races furiously hate the Undead.
+286 Human heroes aren't too strong physically, but they are natural-born leaders. Due to their high tolerance of others, People may use magic equipment and employ units of any other race, except Elves.
+287 Register
+288 Registration
+289 Login (e-mail)
+29 Error
+290 You have to fill out all the fields to complete the registration.
+291 Password (4 characters minimum)
+292 You can only use an e-mail address as your login.
+293 Password at registration
+294 Your e-mail address
+295 Your e-mail address
+296 Miscellaneous
+297 Vibro signal in case of attack
+298 Help
+299 Achievements
+3 Settings
+30 You must enter a correct e-mail address (the same you entered on the game WAP site) and the password you received at registration. If you haven't registered yet (and only downloaded JAR) or have forgotten your password, please visit http\://lordmancer.com to retrieve your password or register.
+300 Your achievements
+301 You can learn how to buy Crystals in My Heroes, Payments.
+302 You're about to send SMS "<%5%> <%4%> id<%heroid%>" to <%0%> to buy Crystals. It will cost <%1%> <%2%> and you will get <%3%> Crystal(s). Press "<?215?>"
+303 Authorisation
+304 Start game
+305 Cache cleared
+306 Android Market
+308 You're about to send SMS "<%5%><%4%>id<%heroid%>" to <%0%> to buy Crystals. It will cost <%1%> <%2%> and you will get <%3%> Crystal(s). Press "<?215?>"
+309 You can buy Crystals via OVI Store
+31 Cannot connect to server. Check connection settings (in Main Menu, Settings) or try again later.
+310 OVI Store
+311 Enable sound effects
+312 Do you wanna buy crystalls?
+313 Enable music
+314 Purchase request successful. Your game account will be replenished within several minutes. If you haven't received your Crystals, please let our tech support know (in Acquiring Crystals).
+32 Random land
+33 Select Land
+34 Back
+35 Try again later
+36 Stop\!
+37 Field map is loading... You can't leave the town for now.
+38 Map
+39 Flee
+40 If you flee the battlefield right now, you'll keep money and items but lose your army.
+41 Continue
+42 Yes
+43 No
+44 Exchange cancelled
+45 Exchange completed successfully 
+46 Magic scrolls
+47 Attack
+48 Shop
+49 Warehouse
+5 Connection 
+50 Barracks
+51 Inn
+52 Army
+53 Amulets
+54 Armour
+55 Influence
+56 This creature is hostile to your race.
+57 This item belongs to an enemy race or your Level is not high enough.
+58 You can't hire any more warriors. The size of your army depends on your Leadership. You can increase it as you progress to a higher Level.
+59 Your army is too big.
+6 Your account
+60 Not enough money
+61 Not enough room in your bag
+62 Enter
+63 Attack
+64 All
+65 Enemy
+66 Incoming 
+67 Outgoing
+68 Leave
+69 Move 
+7 Select
+70 Next
+71 Magic
+72 Action
+73 Menu
+74 Information
+75 Recon
+76 Use magic
+77 Review
+78 Private message
+79 Message
+8 Save
+80 Messages
+81 Chat
+82 Private room
+83 Exchange
+84 Exchange
+85 Quit game
+86 Offer
+87 Weapon
+88 Other 
+89 Your army
+9 Lordmancer
+90 Put on
+91 Take off
+92 Offer
+93 Hero
+94 Cross 
+95 Bag
+96 Sack
+97 Chest
+98 Center view
+99 Buy

@@ -1,0 +1,9 @@
+﻿
+count:1
+name1:Neverland
+smsprefix1:lordcom
+numCount1:3
+moneyName1:usd.
+num1-1:0000 1 1
+num1-2:1111 3 4
+num1-3:2222 10 14
