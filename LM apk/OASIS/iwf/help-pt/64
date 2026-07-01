@@ -1,0 +1,7 @@
+﻿0 Você pode pegar coisas do saco ou deixar alguns de seus itens lá. Seus itens são mostrados na linha superior, a linha inferior reflete os itens que você encontrará no saco. Para tirar ou deixar um item, selecione-o usando o botão central, depois escolha a quantidade usando os botões esquerdo, direito, para cima e para baixo. Em seguida, confirme as alterações no menu, escolhendo "Aceitar".
+1 - O número "7" é o número de itens.
+2 - O número "12" é o número de itens selecionados.
+3 - O canto inferior esquerdo mostra a raça do item.
+5 - O número "3" mostra o nível do item.
+6 - Os itens que você pode vestir são marcados com uma marca verde. Você pode usar apenas aqueles itens que pertencem a raças amigas. O nível de um item não deve exceder o seu se você quiser poder usá-lo.
+7 - Os itens que você não pode vestir são marcados com uma cruz vermelha. No entanto, você pode levá-los com você, vender ou trocar.

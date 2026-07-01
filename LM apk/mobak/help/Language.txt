@@ -1,0 +1,318 @@
+﻿
+1 Sair
+10 Senha
+100 Deixar
+101 <%0%> deixou para o nível <%1%>
+102 Nível
+103 Características
+104 Habilidades
+105 Impossível
+106 Cancelar
+107 Nome
+108 Saúde
+109 Moral
+11 Acessar (e-mail do registro)
+110 de
+111 Recolocação
+112 altera <%0%> quadrado(s)
+113 limites
+114 ilimitado
+115 remoto
+116 perto
+117 Defesa
+118 Opções
+119 Vazio
+12 Max burst size (bytes)
+120 O baú está vazio.
+121 Limpe a cache
+122 Limpar
+123 Não há mana suficiente
+124 Concordo
+125 Portão da Cidade
+126 Você não possui o item apropriado.
+127 Erro de conexão 
+128 Você quer continuar esperando?
+129 Enviar
+13 Velocidade de transferência (segundos)
+130 Porção máxima
+131 Deixar todos
+132 Você não possui pergamenas mágicas.
+133 Você não possui nenhum item.
+134 Experiência disponível
+135 Atenção
+136 Não há experiência disponível.
+137 Você alcançou o máximo de sua experiência gratuita.
+138 Configuração do teclado
+139 Configuração das Softkeys
+14 Tentativa de re-conexão 
+140 Favor pressionar 
+141 softkey esquerda
+142 softkey direita
+143 Configurações salvas
+144 Próximo Nível
+145 Ainda resta experiência disponível, se você sair agora você a perderá.
+146 Fechar
+147 Servidor desconectado, re-conectando
+148 Aceitar
+149 Comprar/Vender
+15 Codificação
+150 Analisar
+151 História
+152 Página Seguinte
+153 Página Anterior
+154 Quartos
+155 Mensagem para o quarto
+156 Enviar
+157 Responder
+158 Nova mensagem
+159 Mensagem particular
+16 Servidor Lordmancer 
+160 Quem está aqui
+161 Fechar menu
+162 Voltar para o quarto
+163 Número
+164 Perigo
+165 Você não pode deixar a cidade sem um exército.
+166 Você não pode atacar - é um território neutro.
+167 Convite
+168 Seu username já está sendo usado por outro telefone.
+169 Voltar ao jogo
+17 Porta
+170 Autorização falida Verificar a configuração de sua conta em Мain Мenu. Você pode acessar sua conta aqui http://<?177?><?204?><?268?> Ir para o site?
+171 Versão
+172 Reservas
+173 Depósito
+174 Localizado em
+175 Dispensar
+176 Jogar fora
+179 Cristais
+18 Raça
+180 Você está prestes a enviar um torpedo "<%5%><%4%>identificação<%heroid%> " para <%0%> para comprar Cristais. Custará <%1%> <%2%> e você obterá <%3%> Cristal(s) Pressione "<?215?>"
+181 Finanças
+182 Você não tem nada para oferecer em troca.
+183 Um exército inimigo quer se juntar a você.
+184 Você concorda?
+185 Sair do jogo?
+186 Dividir
+187 Juntar
+188 Torpedo enviado com sucesso. A conta de seu jogo será restabelecida dentro de alguns minutos. Se você não recebeu seus Cristais, favor, informe nossa assistência técnica (na seção Adquirindo Cristais).
+189 O torpedo não foi enviado. Para comprar Cristais, dirija-se à seção Adquirindo Cristais.
+19 Elfos
+190 E vire
+191 Pegue todos
+192 Você tem certeza que você quer sair e cancelar todas as alterações? 
+193 Coloque tudo
+194 Cidade
+195 Você pode contratar tropas e comprar armas agora.
+196 Vilarejo 
+197 Você pode reforçar seu exército aqui.
+198 Este baú pode conter itens úteis.
+199 Alguém deixou algumas coisas aqui.
+2 Acessar
+20 Anões
+200 Portal
+201 Você pode se teletransportar para outras Terras através de um Portal.
+202 Contratar
+203 Tomar
+204 Lordmancer
+205 Não há dinheiro suficiente
+206 Para se teletransportar para <%0%> você deve pagar <%1%> moedas.
+207 <<<
+208 Atualizar
+209 Seu exército se atolou em uma batalha Você pode escapar, mas você perderá seu exército e parte de sua experiência. Você manterá seus itens e seu dinheiro. 
+21 Orcos
+210 Não há espaço suficiente em sua sacola. Você pegou somente alguns dos itens.
+211 Você não pode pegar este item - você não possui espaço em sua sacola.
+212 Enviar torpedo
+213 Selecionar seu país
+214 Selecionar a quantidade de Cristais
+215 Enviar torpedo
+216 Você não pode comprar Cristais neste momento.
+217 moedas
+218 Criar
+219 Clã Guild
+22 Mortos Vivos
+220 Aplicativos 
+221 Candidatos
+222 Membros
+223 Promover 
+224 Degradar
+225 Expulsar
+226 Aposentar-se
+227 Negar
+228 Cidades
+229 Você não possui Cristais suficientes.
+23 Pessoas
+230 Cristal
+231 Você pode comprar Cristais com torpedos.
+232 Você pode trocar um Cristal por <%0%> moedas.
+233 Premium
+234 Até o momento em que sua Conta Premium estiver ativa, você receberá pontos de experiência em dobro pelas vitórias militares e suas tropas o servirão 20% mais tempo pelo mesmo preço. Para ativar sua Conta Premium, favor, indique por quanto tempo você deseja que ela permaneça ativa e pressione OK.
+235 desde 
+236 até 
+237 Procurar
+238 Esconder
+239 Mostrar
+24 Elfos
+240 OK
+241 Reclamar
+242 Moedas
+243 Cristais
+244 Você está prestes a reclamar sobre uma mensagem que recebeu. Continuar?
+245 Melhorar
+246 Você realmente quer desmembrar esta brigada?
+247 Você realmente quer deixar este item de lado?
+248 Ligar
+249 Mostrar dicas
+25 Anões
+250 Adicionar
+251 Eliminar
+252 Ignorar
+253 3 horas
+254 6 horas
+255 24 horas
+256 1 semana
+257 Por um mês seu herói terá está aparência aos outros jogadores. Continuar?
+258 Você pode mudar o ícone que representa seu herói no mapa. Esta operação custará 10 Cristais por mês.
+259 Ícone
+26 Orcos
+260 tecla de ativação do tempo
+261 Estatísticas
+262 Se você deseja, você pode redistribuir seus pontos de experiência entre as diversas habilidades. Um Cristal permite a redistribuição <%0%> ponto(s) de experiência. Entre 1 e 50, quantos Cristais você pretende gastar nisso?
+263 Você está prestes a redistribuir sua estatística de habilidade. Você pagará alguns Cristais por aquilo. Continuar?
+264 Doação
+265 Os deuses de Quiltlands podem transferir você e seu exército para um lugar mais seguro sem que você perda nada. No entanto, há uma doação sugerida de <%0%> por esta intervenção divina. 
+267 Amigo
+269 Diário
+27 Mortos Vivos
+270 Atual
+271 Completado
+272 Falido
+273 Artefatos
+274 Leilão
+275 Fórum
+276 Quer comprar?
+277 Este feitiço usará <%0%> além de <%1%> ponto(s) de mana.
+278 O servidor enviou uma lista vazia de números específicos. Tente limpar a cache e reinicie o jogo.
+279 Username (este é o nome que o identificará no Fórum)
+28 Pessoas
+280 Nome do herói
+281 Raça do herói
+282 Elfos são uma raça muito isolada e fechada. Quase não existem fatos que contem como eles apareceram em Quiltlands e sobre sua cultura. Elfos não podem usar itens feitos por outras raças e eles nunca contratam guerreiros estrangeiros. As tropas de elfos não são numerosas, mas eles são muito habilidosos na batalha. Elfos possuem excelentes técnicas mágicas.
+283 Os Anões são ricos e aptos para negócios. O depósito subterrâneo deles está repleto de ouro que eles devem gastar para comprar boas armas e armaduras. Eles não são particularmente poderosos em luta direta, mas os Anões podem muito bem se disfarçar e esconder entre os guerreiros. A defesa é o ponto de força deles. A única raça que eles se dão bem são as Pessoas.
+284 Os Orcos são uma raça agressiva. Seus guerreiros atacam com extrema rapidez e força. No entanto, sua defesa é um ponto fraco. Os Orcos atacam os locais com frequência, roubam suas cidades e escravizam sua população. A raça das Pessoas é a única a tolerar os Orcos. Ao contrário das outras raças, os Orcos podem contar com Dragões neutros, Mágicos e Banshees.
+285 Antigos necromantes podiam ressuscitar pessoas e outras criaturas. Os ressurrectos eram chamados de Mortos Vivos e como eles herdaram algumas das técnicas dos necromantes, eles estão desenvolvendo e aperfeiçoando esta técnica através dos anos. Agora os exércitos de Mortos Vivos são numerosos e fortes. Eles possuem uma ótima habilidade mágica. Alguns acreditam que foram os Mortos Vivos que causaram o colapso daquele que um dia fora um mundo sólido, transformando-o em retalhos de raças desesperadas. Com exceção das Pessoas, as outras raças odeiam os Mortos Vivos.
+286 Heróis humanos não são tão fortes fisicamente, mas eles são líderes inatos. Graças ao nível elevado de tolerância, as Pessoas podem usar itens mágicos e contratar exércitos de outras raças, com exceção dos Elfos.
+287 Registrar
+288 Registro
+289 Username (e-mail)
+29 Erro
+290 Você tem que preencher os campos para completar a registro.
+291 Senha (mínimo 4 carácteres)
+292 Você pode usar somente um endereço de e-mail como username.
+293 Registro da senha
+294 Seu endereço de e-mail
+295 Seu endereço de e-mail
+296 Várias
+297 Sinal vibrador em caso de ataque
+298 Ajuda
+299 Conquistas
+3 Configurações
+30 Você deve digitar um endereço de e-mail correto (o mesmo que você digitou no site WAP do jogo) e senha (que você recebeu durante o registro). Se você ainda não se registrou (e somente baixou JAR) ou você esqueceu a sua senha, favor, visite http://lordmancer.com para recuperar sua senha ou registre-se.
+300 Suas conquistas
+301 Você pode aprender como comprar Cristais na seção Meus Heróis, Pagamentos.
+302 Você está prestes a enviar um torpedo "<%5%> <%4%> id<%heroid%>" para <%0%> para comprar Cristais. Custará <%1%> <%2%> e você obterá <%3%> Cristal(s) Pressione "<?215?>"
+303 Autorização
+304 Iniciar o jogo
+305 Cache limpa
+306 Google Checkout
+308 Você está prestes a enviar um torpedo "<%5%><%4%>id<%heroid%>" para <%0%> para comprar Cristais. Custará <%1%> <%2%> e você obterá <%3%> Cristal(s) Pressione "<?215?>"
+309 Você pode comprar Cristais com OVI Store
+31 Não foi possível conectar ao servidor. Verifique as configurações da conexão (no Menu Principal, Configuração) ou tente mais tarde.
+310 OVI Store
+311 Ativar efeitos sonoros
+312 Você deseja comprar Cristais?
+313 Ativar música
+314 Torpedo enviado com sucesso. A conta de seu jogo será restabelecida dentro de alguns minutos. Se você não recebeu seus Cristais, favor, informe nossa assistência técnica (na seção Adquirindo Cristais).
+315 vk.com
+316 Buy with a scratch-card
+317 Acesso falido. Verifique as configurações de sua conexão no Menu Principal.
+318 Volume do som
+319 Velocidade do herói
+32 Terra aleatória
+320 Carregando...
+321 Política de Privacidade
+322 About
+323 Lordmancer (version <%0%>) by Mobile Active LLC. All rights reserved, 2012.
+33 Selecionar Terra
+34 Voltar
+35 Tente novamente mais tarde
+36 Pare!
+37 Carregando field-map... Você não pode deixar a cidade por enquanto.
+38 Mapa
+39 Fuga
+40 Se você fugir de um campo de batalha agora, você manterá seu dinheiro e itens, mas perderá seu exército.
+41 Continue
+42 Sim
+43 Não
+44 Troca cancelada
+45 Troca completada com sucesso 
+46 Pergamenas mágicas
+47 Atacar
+48 Comprar
+49 Depósito
+5 Conexão 
+50 Quartel
+51 Hospedaria
+52 Exército
+53 Amuletos
+54 Armadura
+55 Influência
+56 Esta criatura é hostil à sua raça.
+57 Este item pertence à uma raça inimiga ou seu Nível não é elevado o bastante.
+58 Você não pode contratar mais guerreiros. O tamanho de seu exército depende de sua Liderança. Você pode aumentá-la ao longo do tempo a um Nível mais elevado.
+59 Seu exército é grande demais.
+6 Sua conta
+60 Não há dinheiro suficiente
+61 Não há espaço suficiente na sua sacola
+62 Digite
+63 Atacar
+64 Todos
+65 Inimigo
+66 De entrada 
+67 De saída
+68 Deixar
+69 Mover 
+7 Selecionar
+70 Próximo
+71 Mágica
+72 Ação
+73 Menu
+74 Informação
+75 Reconhecimento
+76 Usar mágica
+77 Revisar
+78 Mensagem particular
+79 Mensagem
+8 Salvar
+80 Mensagens
+81 Bate-papo
+82 Quarto particular
+83 Trocar
+84 Trocar
+85 Sair do jogo
+86 Oferecer
+87 Arma
+88 Outros 
+89 Seu exército
+9 Lordmancer
+90 Colocar
+91 Tirar
+92 Oferecer
+93 Herói
+94 Cruzar 
+95 Sacola
+96 Saco
+97 Baú
+98 Vista central
+99 Comprar

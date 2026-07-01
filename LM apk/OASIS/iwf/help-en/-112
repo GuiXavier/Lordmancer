@@ -1,0 +1,8 @@
+﻿0 There are several buildings in the town that can be improved up to 10 times and whose improvements will boost the hero's individual abilities (heroes with the rank of Commander and above can upgrade buildings).
+0 Temple gives a 5% mana bonus to the town defenders.
+0 Wall gives a 5% defence bonus to the defenders.
+0 Forge gives a 5% attack bonus to the defenders.
+0 Tower gives a 5% First Strike bonus to the defenders.
+0 Market gives a 5% bonus to the town income.
+0 University gives a 5% per level to the experience gained by members of the order on the land where the city is located. If the order owns several cities on the same land, then the experience gain comes only from the university with the highest level.
+0 The town generates an income every real-time hour. The default income is 1'000'000 gold coins, but it can be boosted through Market improvements. The town's income is divided among all members of the Order whose rank is not lower than Knight.

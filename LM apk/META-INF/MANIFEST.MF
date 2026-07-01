@@ -1,0 +1,1047 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_33 (Sun Microsystems Inc.)
+
+Name: mobak/res/steam.png
+SHA1-Digest: p4+qU75g41qdwyUlv0Vs7skBV7s=
+
+Name: mobak/res/cursors.png
+SHA1-Digest: I4pxL4m3j5njNo+pf7HqFSRbeH0=
+
+Name: mobak/res/10regular_65-96_FFCC00.png
+SHA1-Digest: G0BH8kFhuEhnBwuhs48SD46MgkQ=
+
+Name: mobak/res/9regular_97-127.pngs
+SHA1-Digest: Ccy+H0ZtG/Gww40oEUzNmND08w8=
+
+Name: mobak/res/10regular_311-340_FFCC00.png
+SHA1-Digest: Pm3H6y1gBQ3UMrJqCGrFfMHOOvQ=
+
+Name: mobak/res/10regular_97-127_00FF00.png
+SHA1-Digest: LUMP03KfA3GNJmD8oR+bSYgLZfQ=
+
+Name: mobak/res/tiles_grass.png
+SHA1-Digest: Xu/JEH4JdUxrk6ZN2bMr7Gzajqc=
+
+Name: mobak/res/13regular_401-432_FFFFFF.png
+SHA1-Digest: lE5kqr93doP/+q/WDz8Id1kSXVY=
+
+Name: mobak/res/tiles_sand.png
+SHA1-Digest: r0rxQq1Zp8/CXiew4l5TyDdmJKw=
+
+Name: mobak/help/64
+SHA1-Digest: 8xcZDanv1iln4LRh9QjywkpgPw0=
+
+Name: mobak/res/11regular_401-432_999999.png
+SHA1-Digest: iOEbFpiKG5QeYR6SMiL7gXk+OoE=
+
+Name: mobak/res/decorLava.png
+SHA1-Digest: d4vsON5sjbt2HvSceL2SMLp7dLM=
+
+Name: mobak/res/10regular_311-340_FFFFFF.png
+SHA1-Digest: WdqncIplIDIH3tea9RXurpGOKZo=
+
+Name: mobak/res/11regular_251-280_999999.png
+SHA1-Digest: wwMGO9TWg77TWDC59TpP8XbdVB4=
+
+Name: mobak/res/progressbar_position_100.png
+SHA1-Digest: qEV/bzAcJHIpI3aOcYBsqqkv98w=
+
+Name: mobak/res/9regular_193-220_FFFFFF.png
+SHA1-Digest: HR4olbL8L4tSHAucBUqb7JA3Jv8=
+
+Name: mobak/res/13regular_401-432.pngs
+SHA1-Digest: WymShYM4GsGUhHo6dBpP781Al+E=
+
+Name: mobak/res/13regular_371-400.pngs
+SHA1-Digest: Eqzw8rcSJ8ncobF71BOLgJoF2+8=
+
+Name: mobak/res/item-1.png
+SHA1-Digest: zDe5MoJ8Hu/aDWbc/9IOS6xdHHg=
+
+Name: mobak/res/13regular_97-127.pngs
+SHA1-Digest: Clb8yrUAvPl0yVVxThYzhKP2j/I=
+
+Name: mobak/res/11regular_65-96.pngs
+SHA1-Digest: Ofb8tkTizTzCrZdXrBBKo2G3asQ=
+
+Name: mobak/res/horizontal_mid.png
+SHA1-Digest: +GOU+8wXM9b2UQO8xGrlx7gorq4=
+
+Name: mobak/res/animDecorLava.png
+SHA1-Digest: d4vsON5sjbt2HvSceL2SMLp7dLM=
+
+Name: mobak/res/red_indicator.png
+SHA1-Digest: N2mfPVbYO6EZnMCT2cbOla+xBPA=
+
+Name: mobak/res/9regular_97-127_FFFFFF.png
+SHA1-Digest: SZ/2/tGw7NRfyq4lQgTtI0xM9Y8=
+
+Name: mobak/res/10bold_371-400.pngs
+SHA1-Digest: fxHC8jMyvvM3TWDWrPwsbLJq0KA=
+
+Name: mobak/res/icons-of-races.png
+SHA1-Digest: SkojBuP7nTloAszlyfprrfODFaA=
+
+Name: mobak/res/10regular_221-250.pngs
+SHA1-Digest: m6vRb+1+ojVMemwsn9LOcjLGS+Y=
+
+Name: mobak/res/5-3.png
+SHA1-Digest: CS1rrrSr2lmBxZk+GtpRGY1pbAs=
+
+Name: mobak/res/11regular_251-280.pngs
+SHA1-Digest: eV5FC4fVs2uZ/oU3XpssR61kYUY=
+
+Name: mobak/res/10regular_311-340_000000.png
+SHA1-Digest: 29OCAWfPDZjgkAlypNDVxb/3RfQ=
+
+Name: mobak/res/11regular_32-64_999999.png
+SHA1-Digest: 1uzqd+W8B/zUc16snBQQ7pnu9to=
+
+Name: mobak/res/11regular_281-310.pngs
+SHA1-Digest: vW9JSedJ12svlv4q4/X5D6Se/dQ=
+
+Name: mobak/help/-10
+SHA1-Digest: j8wooT37qF0oU0PRtObwEHATsM4=
+
+Name: mobak/res/10regular_97-127.pngs
+SHA1-Digest: lKSTRwbfzJl8O6d6KG+TEZDE6PA=
+
+Name: mobak/res/popup_menu_item_right_x.png
+SHA1-Digest: JK3IFT7jwTHLXxbtb3cVPLNTAno=
+
+Name: mobak/res/10regular_281-310_FFCC00.png
+SHA1-Digest: KGT2NtsQi6MAVqxKH3eGR+LSH+8=
+
+Name: mobak/res/9regular_281-310_FFFFFF.png
+SHA1-Digest: E1icvW+FF2T6ld9a5SAlnGQLLD8=
+
+Name: res/layout/midplist.xml
+SHA1-Digest: yO3lgy98weRlL3tfjdB4l47JDqE=
+
+Name: mobak/res/10regular_401-432_FFCC00.png
+SHA1-Digest: uk/5PsUdAm7K/jHt9a53/yw2iGw=
+
+Name: mobak/res/13regular_341-370.pngs
+SHA1-Digest: ysCKpfuqi2EAhpuzu4J43pvDjJY=
+
+Name: mobak/res/middle_tile_x.png
+SHA1-Digest: GjjQpNXGoSl5kiRJAG+fESf1oPo=
+
+Name: mobak/res/herouse2.png
+SHA1-Digest: aaZrGOZzPunoF/5K2QRtVt0K9Xs=
+
+Name: mobak/res/11regular_97-127_999999.png
+SHA1-Digest: gSz8/bkTEQXPhD+5KssEjHeBaCQ=
+
+Name: mobak/res/icon.png
+SHA1-Digest: 5kCg1yqAsQp+gw15LeCc5RbrKSo=
+
+Name: mobak/res/separator.png
+SHA1-Digest: 9EueB4Cki3ltEZjJ/0P9ISxhPfU=
+
+Name: mobak/res/13regular_371-400_FFFFFF.png
+SHA1-Digest: MLKcmo7iERXVOLXUxOvrgddUujk=
+
+Name: mobak/res/menu_item_left_x.png
+SHA1-Digest: 3v718efvlZO5kj8ZAFTU0MNo0uk=
+
+Name: mobak/res/10regular_371-400.pngs
+SHA1-Digest: /vZ/iERvc7y9KDK7Flw77XD4/Sc=
+
+Name: mobak/res/13regular_221-250.pngs
+SHA1-Digest: UMypyVgwd0sMFHBnmKvPB/cV0LM=
+
+Name: mobak/res/10regular_311-340_999999.png
+SHA1-Digest: 4NdLqUh5DcQAPkZVX5TpI9dxDTs=
+
+Name: mobak/res/10regular_193-220_FFCC00.png
+SHA1-Digest: 2etB/GdVVIzJr8yvF6doqKrjMYw=
+
+Name: mobak/res/10bold_311-340.pngs
+SHA1-Digest: w+hf3oADqC2K+owSkwROJUVC5uE=
+
+Name: mobak/res/13regular_65-96_FFFFFF.png
+SHA1-Digest: 4ZJSXZdDEst6v4hVwvoAcU68XxY=
+
+Name: mobak/res/13regular_251-280.pngs
+SHA1-Digest: mp5elsn11U9FmUS9mtOd90eAu2Q=
+
+Name: mobak/res/11regular_371-400.pngs
+SHA1-Digest: KoMREPLOT14OD+fVlsH4Gn0fL08=
+
+Name: mobak/res/13regular_193-220.pngs
+SHA1-Digest: sIjCMHzdKdc33sE6d/UYIxg7tvw=
+
+Name: mobak/res/battle_vertical.png
+SHA1-Digest: wIPj4bMICFWl1f71hDi+/8gaieY=
+
+Name: mobak/res/name_label_left.png
+SHA1-Digest: NMmVa1V0VgPl1ymAc9CaJIEjpe0=
+
+Name: mobak/res/11regular_193-220.pngs
+SHA1-Digest: fcEPErorqfKIze7X8tnwVMzbbQ0=
+
+Name: mobak/res/sunduk_open.png
+SHA1-Digest: GqwzSnLb5hfTitKlEztED0y+NxE=
+
+Name: res/layout/midpchoicegroup_p.xml
+SHA1-Digest: YkS9H1H1Pn6Ndzqxtaqds0t8QP8=
+
+Name: mobak/res/modal_window_part13.png
+SHA1-Digest: tgBj25UugKm+wCXxfvOXI4DuEVM=
+
+Name: mobak/res/enemy1.png
+SHA1-Digest: dypb7DCzZBYQ94ClRPssCn9xmMk=
+
+Name: mobak/res/bottom_corner.png
+SHA1-Digest: OhO4V2W9VbtT9JZBCs7vmc5zswc=
+
+Name: mobak/res/10regular_32-64_FFCC00.png
+SHA1-Digest: OaXJBETnY235/zJLpDCWn+3zfAQ=
+
+Name: mobak/res/10regular_97-127_999999.png
+SHA1-Digest: YRUQBOAhX6k4ohKByHsdfSA5SIY=
+
+Name: mobak/res/green_indicator.png
+SHA1-Digest: ezuOarvsjHSfS89qnuUqR0jeZFE=
+
+Name: mobak/res/9regular_32-64.pngs
+SHA1-Digest: 5MdQPL0tSHZuTqw3MafjcR8yxoU=
+
+Name: mobak/res/meshok_c.png
+SHA1-Digest: lelaRxObDWsqPZyoLvpb8wXcyCo=
+
+Name: mobak/res/10regular_371-400_00FF00.png
+SHA1-Digest: sKkJwrAzp46HwXdzcFy4+oZm6k8=
+
+Name: mobak/res/10bold_65-96.pngs
+SHA1-Digest: +1S6wm02LT3QGFrOfOExq7eBXQY=
+
+Name: mobak/res/popup_menu_selected_item_left_x.png
+SHA1-Digest: Xx0e94R/+M8Y3xNxOOAzEq3iLyw=
+
+Name: mobak/res/9regular_281-310.pngs
+SHA1-Digest: F/Y8TokCubLDES7KccD1N9Rq9n8=
+
+Name: mobak/res/10regular_401-432_000000.png
+SHA1-Digest: cGQmVgASVjHoZK70yhLKWSPMI1E=
+
+Name: mobak/res/1castle.png
+SHA1-Digest: EsUmoutnhuCRsjReIX83iQVFZ/4=
+
+Name: mobak/res/10bold_193-220_00FF00.png
+SHA1-Digest: Rbkn+nf+pIXRGZEnN7WJxm8GHpc=
+
+Name: mobak/res/9regular_221-250.pngs
+SHA1-Digest: /fhjo8mpd0FbCGdaq3d9sKatvu4=
+
+Name: mobak/res/11regular_97-127.pngs
+SHA1-Digest: U5DfMmxJe6TjDmu5XCYleYri6f0=
+
+Name: mobak/res/itemCell2.png
+SHA1-Digest: DWfRbe9n6dT5ImaovLEvVdl0xzQ=
+
+Name: mobak/res/10bold_371-400_00FF00.png
+SHA1-Digest: DzdDYsPxWyW7N98hGIgINsp00N0=
+
+Name: mobak/res/name_label_right.png
+SHA1-Digest: 7M7zNJwvpJ7zZkGSWFB5tmbFP4Y=
+
+Name: mobak/res/magic_success.png
+SHA1-Digest: LUrwW/ILjkDt4uhT3E52/zyY5uU=
+
+Name: mobak/res/decorStone.png
+SHA1-Digest: Wou0XTL4JlvBIiMU8aQPxKfyN+w=
+
+Name: mobak/res/10regular_221-250_000000.png
+SHA1-Digest: f5C7htDKvmJ8FvyeAwZfDvsu6ew=
+
+Name: mobak/res/10bold_341-370.pngs
+SHA1-Digest: aS1NK426NfaV2cHO4mOqu2EvLD4=
+
+Name: mobak/res/0.png
+SHA1-Digest: lxrKOXD9ACOWEgr/NFO44k7Ix5w=
+
+Name: mobak/res/11regular_401-432.pngs
+SHA1-Digest: iCMjt6zWheYTCN2umZD2u5+mAlk=
+
+Name: mobak/res/3-2.png
+SHA1-Digest: LYC7I5wZR/heBArWZzww63LUWGk=
+
+Name: mobak/help/32
+SHA1-Digest: JpfRdpX3nyR6Kwkm98O4OEyf/Wg=
+
+Name: mobak/res/11regular_65-96_999999.png
+SHA1-Digest: on7FQAGExl1kNSrbVPofol91qHQ=
+
+Name: mobak/res/11regular_32-64.pngs
+SHA1-Digest: 6NxJvcWgW7eJ2K5kXU63QrW/8+U=
+
+Name: mobak/res/10regular_251-280.pngs
+SHA1-Digest: Rni+b4XVUjIB4eBPNXsy4CsbKaU=
+
+Name: mobak/res/10regular_221-250_999999.png
+SHA1-Digest: jp3x03m3ICMSxJTfe3yGA6WbD5c=
+
+Name: res/layout/midpform.xml
+SHA1-Digest: olvpwUA1s0zs0N9lQcwYKWxzlAU=
+
+Name: mobak/res/10regular_341-370_00FF00.png
+SHA1-Digest: YwmW7kdG23FRoC4cWYwhm1FoNf4=
+
+Name: mobak/res/magic_failure.png
+SHA1-Digest: P2MGd29PPiDfAs5Sldrr2srOW80=
+
+Name: mobak/res/vertical.png
+SHA1-Digest: p1nUS1VEd8W5+wHdudD7MpvRf2A=
+
+Name: mobak/res/10regular_251-280_00FF00.png
+SHA1-Digest: MZTgCP8wqamsNAzlsI5ntLhuPvk=
+
+Name: mobak/res/10regular_251-280_FFFFFF.png
+SHA1-Digest: E8p16DVg32oNBN6OIjvMXfUr7RE=
+
+Name: mobak/res/10bold_32-64_00FF00.png
+SHA1-Digest: euZO2+Ylho1qnBweAXerUc4qEX8=
+
+Name: mobak/res/3-1.png
+SHA1-Digest: Ik9SJ1OrdLgl0CeS/jeNLLyqeeo=
+
+Name: res/layout/midpstringitem.xml
+SHA1-Digest: WGWWeTmNgPEQRzxyDJ2wXXK5AhM=
+
+Name: mobak/res/arrow_bottom.png
+SHA1-Digest: zkmwLKPoC3Ua0H1TBRnxrToqoEg=
+
+Name: mobak/res/13regular_97-127_FFFFFF.png
+SHA1-Digest: 5nOQ7C827NYoMy94vU7js6byFRg=
+
+Name: mobak/res/9regular_65-96.pngs
+SHA1-Digest: 9vlXfgxCYxXdTJK+EvM3zAmtn6w=
+
+Name: mobak/res/9-2.png
+SHA1-Digest: kjC694agFWo2BVxN5RdAKaqhqqE=
+
+Name: mobak/res/bigclock.png
+SHA1-Digest: Co47/OP/zF8k1jAb/vWlMz1iB1o=
+
+Name: mobak/res/10regular_281-310_999999.png
+SHA1-Digest: vV7E0Sk1CZ9sZUQ40CzLZEouM2I=
+
+Name: mobak/res/money_x.png
+SHA1-Digest: vc4YmTaWwY7Bo2T3S2Ibprzriw0=
+
+Name: mobak/res/10regular_311-340_00FF00.png
+SHA1-Digest: P3VL+SM85Btw92TNhfYgIQl8j/I=
+
+Name: mobak/res/10regular_160-191_FFFFFF.png
+SHA1-Digest: U9jBVWj+CGPfDgrU9XnMjcfYtv4=
+
+Name: mobak/res/7.png
+SHA1-Digest: rBCXvPPDUDSdeqdosJU+d9YNgGs=
+
+Name: mobak/res/image_size.bin
+SHA1-Digest: luDyV/SR9l+qOMGuciywshuGFOk=
+
+Name: mobak/res/10regular_401-432_999999.png
+SHA1-Digest: 7niWu2ijmJqMTC1+dS3+/5vRVaE=
+
+Name: mobak/res/progressbar_position_right.png
+SHA1-Digest: N1g8fgBX9dr4oCB4QgEodj0lFjQ=
+
+Name: mobak/res/10bold_97-127_00FF00.png
+SHA1-Digest: UuQiUW9FCpdXj1uUo8mPoGTVLa0=
+
+Name: mobak/res/9regular_311-340.pngs
+SHA1-Digest: DZ+ijXRZLMe/xbZTqg1N6GNhXGU=
+
+Name: mobak/res/entry.png
+SHA1-Digest: 45z0MRyai50g4iR5xVh3YNYQz78=
+
+Name: mobak/res/9regular_221-250_FFFFFF.png
+SHA1-Digest: 9dSOPtkW09wiVf7xwBZZ6cdrFu0=
+
+Name: mobak/res/10regular_221-250_FFFFFF.png
+SHA1-Digest: ANyde2z+NYaEb+gt0rI4t2290Jk=
+
+Name: res/layout/midpchoicegroup_m.xml
+SHA1-Digest: d84aLlXMtcpViJ1BTQq0/tT1k4k=
+
+Name: mobak/res/13regular_65-96.pngs
+SHA1-Digest: rMe4uddXNWrRdbF0eTFOSxBJ3BI=
+
+Name: mobak/res/hand.png
+SHA1-Digest: b0oWoKK59iIqblZ14WsqmR04Qt4=
+
+Name: mobak/res/11regular_160-191.pngs
+SHA1-Digest: 7Z4fODssKVxKy5wQKyVkpI4LK2Y=
+
+Name: mobak/res/generators.png
+SHA1-Digest: cix9+V0E6TZ1xOht6/SZua7xToA=
+
+Name: mobak/res/4-2.png
+SHA1-Digest: xRfxYlvsuyHr0h1CY0AKf1uBj+A=
+
+Name: mobak/res/10regular_371-400_999999.png
+SHA1-Digest: Z7EYEFd5iFJyXKS9dr/CWumE1rw=
+
+Name: mobak/res/10bold_311-340_00FF00.png
+SHA1-Digest: gBHjbSj2j4kRv8kAK3v/beP9vl0=
+
+Name: mobak/res/modal_window_part8.png
+SHA1-Digest: 63vVUFUK8uTTT9WGaqDYa0Dy9f4=
+
+Name: mobak/res/5-1.png
+SHA1-Digest: SSE0BrMk+tLmYeySnqzvdmWQSUc=
+
+Name: mobak/res/10regular_65-96_999999.png
+SHA1-Digest: DDC4VsXmVSj2YE3vXWvHbLa0iDA=
+
+Name: mobak/res/decorWater.png
+SHA1-Digest: DZvQ0+fJVked4XRRgSTE6q9lBbE=
+
+Name: mobak/res/10bold_251-280_00FF00.png
+SHA1-Digest: XJvlA7vSwFVpmDlYzlhuqaLnfYg=
+
+Name: mobak/res/10regular_32-64_000000.png
+SHA1-Digest: TPBRguH/4LWHe/R4el2e5TjKAkg=
+
+Name: mobak/res/herouse1.png
+SHA1-Digest: cncQgBRI8Sw+EVSaBYzyBXzejLM=
+
+Name: mobak/res/10regular_401-432.pngs
+SHA1-Digest: moZB9Q55iFmB9kmEKXoYaiW+JyA=
+
+Name: mobak/res/magic.png
+SHA1-Digest: qfFEZfz3wZL3rE2VVkdDHvNG2iA=
+
+Name: mobak/res/9regular_341-370_FFFFFF.png
+SHA1-Digest: vISEWWADOcLcY3BMreN+l97FJVE=
+
+Name: mobak/res/vertical_mid.png
+SHA1-Digest: P91nFQ4G9RQvhJiX1+e9XxKb0Kk=
+
+Name: mobak/res/10regular_251-280_000000.png
+SHA1-Digest: y81txG7UVbe/b50yQRUYePXD8iw=
+
+Name: mobak/res/6_1-2-3.png
+SHA1-Digest: oJsKRqO/xrT190iItVRKdIfLdVU=
+
+Name: mobak/res/10regular_97-127_FFFFFF.png
+SHA1-Digest: qrFekKl6r6yVVl9nwpzDO+gok/w=
+
+Name: mobak/res/sunduk.png
+SHA1-Digest: 0ddalDfHJQ7nR6MlfIbmMfB8bnY=
+
+Name: mobak/res/13regular_281-310.pngs
+SHA1-Digest: wM0ZwqHP8NHdLcIjv/i5Jv3Xv7g=
+
+Name: mobak/res/modal_window_part7.png
+SHA1-Digest: tftxj27f71lO43d8Bj+Elcw3WJE=
+
+Name: mobak/res/popup_menu_selected_item_right_x.png
+SHA1-Digest: IYABQ6RA/27nlT8g+Ch5QWud9BI=
+
+Name: mobak/res/10bold_401-432_00FF00.png
+SHA1-Digest: lC5S6TvfRZrteh3DwvZ2YqZjM64=
+
+Name: mobak/res/9regular_65-96_FFFFFF.png
+SHA1-Digest: +tS9lFKl+v7x2FwwNZ+9smj6zAM=
+
+Name: mobak/res/10regular_65-96.pngs
+SHA1-Digest: i3DDQj5XZmM++mlfJuhY+rUgRss=
+
+Name: mobak/res/progressbar_left.png
+SHA1-Digest: ruEYKayWoBylIHV6sYpR9A43LII=
+
+Name: mobak/res/enemy2.png
+SHA1-Digest: umUkcDzBT2AOBXOS+Nsz3cEveK8=
+
+Name: mobak/res/2-8.png
+SHA1-Digest: mNzXa6TJDk79uo9QCW5nE6fGIGw=
+
+Name: mobak/help/8
+SHA1-Digest: tWRESWq8d5rAFGK47+CVLkQMFsU=
+
+Name: mobak/res/10bold_221-250.pngs
+SHA1-Digest: VELjec3M0rtPMCsaQGIbR5JBUc0=
+
+Name: mobak/res/equipment_selected.png
+SHA1-Digest: mBEUyRufR/FcDcWiiHJT1nERrr8=
+
+Name: mobak/res/9regular_371-400_FFFFFF.png
+SHA1-Digest: V7GQKct6FaJllwLOnYcEvdxcpiI=
+
+Name: mobak/help/4
+SHA1-Digest: NLEne4ETS2Bj6YDrfusNfefNf+U=
+
+Name: mobak/help/1
+SHA1-Digest: 5OfIigM4mSe/YOSi7rvqHoi4UdM=
+
+Name: mobak/res/9regular_341-370.pngs
+SHA1-Digest: kBJePl8n10OiY8twIS5A0OklJOg=
+
+Name: mobak/res/10bold_65-96_00FF00.png
+SHA1-Digest: zW5Mo1vdcID7IPBrsEg+Mx5XK1U=
+
+Name: mobak/help/2
+SHA1-Digest: LfXbaW1P4SC/B+Th+Ci92HQL31w=
+
+Name: mobak/res/9regular_160-191.pngs
+SHA1-Digest: EesbXYnu4JcY99p6IVUz93+Yljg=
+
+Name: mobak/res/10regular_281-310_FFFFFF.png
+SHA1-Digest: JTEFFym4l+tze6EEwD86Qk0ixro=
+
+Name: mobak/res/progressbar_center.png
+SHA1-Digest: a8LYsWTmOANcdfP2w6dqi7rArYY=
+
+Name: mobak/res/11regular_341-370.pngs
+SHA1-Digest: c9wRVEHB7KUnUYQtxK/7KmmdUQ4=
+
+Name: mobak/res/7_1-3-4.png
+SHA1-Digest: bVfBAiwdXDxDZqfVi2Z4gRKdIDE=
+
+Name: mobak/res/10bold_401-432.pngs
+SHA1-Digest: 2Jrv/OpfGH59pP8vRfoijxU601U=
+
+Name: mobak/res/10regular_341-370_000000.png
+SHA1-Digest: 0UA6Dg5Y5z9NtkpvghOiq+fKpaM=
+
+Name: mobak/res/unites1.png
+SHA1-Digest: /1+roOvoRkyDzQ3nxk9/9RfolDI=
+
+Name: mobak/res/10regular_251-280_FFCC00.png
+SHA1-Digest: fYbphhBX/e/E0UIHrR2A4McgCzA=
+
+Name: mobak/res/13regular_32-64.pngs
+SHA1-Digest: S7mzSX+x8Aw63NVUvTOvjn++UXs=
+
+Name: mobak/res/battle_progress_fill.png
+SHA1-Digest: pHSha3pS5+QpCl7OSHobeglxcVE=
+
+Name: mobak/res/decorGrass.png
+SHA1-Digest: daaluz7eOiSu6MmQfsCdU0ip2wc=
+
+Name: mobak/res/tiles.png
+SHA1-Digest: fkuIyDaP7DgYcMUvmYh/zcMyHM4=
+
+Name: mobak/res/11regular_311-340.pngs
+SHA1-Digest: UkM7PLbwwZcsov0BjgUcCGulLyo=
+
+Name: mobak/help/-102
+SHA1-Digest: lGdWEu/aQp+jwsicVCw/Bi4lgWI=
+
+Name: mobak/res/11regular_371-400_999999.png
+SHA1-Digest: aII2mfXqPttD2waX4FzZhDnlmLs=
+
+Name: mobak/res/modal_window_part4.png
+SHA1-Digest: w8mVy25yDxuPJLVD0J+C2u/NHxA=
+
+Name: mobak/help/-100
+SHA1-Digest: qnEE2DapdSq/Qg/D1IYjm85Gh+Y=
+
+Name: mobak/res/9regular_401-432_FFFFFF.png
+SHA1-Digest: PO/XE4zL0pv1kPXGOtqHQDPAiK4=
+
+Name: mobak/help/-2
+SHA1-Digest: Hhl/zMhYOzN5+aAPqVn3YKyAp0g=
+
+Name: mobak/help/-3
+SHA1-Digest: JDGON6qq5gPFvTBhj4c0oVWU26U=
+
+Name: mobak/res/leg_cursors.png
+SHA1-Digest: SSmB8tCO/lQU2W3Egw4N3OEBW8w=
+
+Name: mobak/res/unknown.png
+SHA1-Digest: SRMpmv/qIEl0p+3cyj7rX7jDhXE=
+
+Name: mobak/res/10regular_32-64.pngs
+SHA1-Digest: pBmo6/9FCyyl7crBX4ei7s3C/s8=
+
+Name: mobak/res/money_crystals_x.png
+SHA1-Digest: VvQo97MQs6jjxyLDeQ/K1Tr4Vks=
+
+Name: mobak/res/10regular_251-280_999999.png
+SHA1-Digest: RibyS6buXo8PoZN3iAMiDJttpAM=
+
+Name: mobak/help/-5
+SHA1-Digest: js9h4a3dn/zFX8dDSu//DudcjZY=
+
+Name: mobak/res/13regular_311-340_FFFFFF.png
+SHA1-Digest: pKNNIDYlgKqrBtB0FGKwFWDPnZg=
+
+Name: mobak/help/-4
+SHA1-Digest: tf6Sfi++XIe+ab2WI/ETX24XrrI=
+
+Name: mobak/res/progressbar_right.png
+SHA1-Digest: 34rB+p8j9BjXpq7sKyF136knuXQ=
+
+Name: mobak/help/-106
+SHA1-Digest: UjlMhCdvxPBqQ6J6vidBDkCNUo4=
+
+Name: mobak/help/-104
+SHA1-Digest: fEFLHbFGPqE7mhvncqrUWZKYihI=
+
+Name: mobak/res/10bold_221-250_00FF00.png
+SHA1-Digest: JlmfC+93MVv9Kt4Z8GtxD1UhzWA=
+
+Name: mobak/res/10regular_193-220_FFFFFF.png
+SHA1-Digest: 8BQJWodGy3CGBDcxztRSSMXkwyI=
+
+Name: res/layout/splash.xml
+SHA1-Digest: uTG1h4nCtHLZLCgmhpoaaCyN/Xw=
+
+Name: mobak/res/tail.png
+SHA1-Digest: hjnz4xv2MybBnuuNBh1mGgX2UhA=
+
+Name: mobak/res/10regular_65-96_00FF00.png
+SHA1-Digest: kBIpLW5SLf9N5j5EGdrLFYaTZqs=
+
+Name: mobak/help/-111
+SHA1-Digest: Pc/WRTLn1vmDAvXy/FYEf1mtdMM=
+
+Name: mobak/res/10regular_371-400_FFFFFF.png
+SHA1-Digest: xQoSFZQwBynnnb7yzMlZLkAp8z8=
+
+Name: mobak/help/-110
+SHA1-Digest: 56z4LM09Xc5f3W7Uxby9d88e00A=
+
+Name: mobak/res/plus_minus.png
+SHA1-Digest: 6nI7PW0yXRiOx7gPPc88b2AC3Jk=
+
+Name: mobak/res/9regular_160-191_FFFFFF.png
+SHA1-Digest: CShYwWZ0NfwHPvMMmCYoM0CuD+A=
+
+Name: mobak/help/-113
+SHA1-Digest: 7Nrm1CnaWWzpxjHPNp2OGn11fqM=
+
+Name: mobak/res/10regular_341-370.pngs
+SHA1-Digest: lxJj2EPFBF3oecbJ2+9N3atR4m4=
+
+Name: mobak/res/10regular_160-191_000000.png
+SHA1-Digest: OsOWAeRpKdBjJM27Buq1zBcnpl0=
+
+Name: mobak/help/-112
+SHA1-Digest: +GqlmBcafFwOgShuscpFLaw6LX4=
+
+Name: mobak/res/10regular_341-370_FFFFFF.png
+SHA1-Digest: SlAnA/eiIxopgLgW9mion6Z+lIo=
+
+Name: mobak/res/10regular_32-64_999999.png
+SHA1-Digest: pc3BJFgoUH2sdmY2klezGK3b7Jk=
+
+Name: mobak/res/10regular_160-191_FFCC00.png
+SHA1-Digest: 0v6o/ZiSn0sox8JuLATGGN3i67Y=
+
+Name: mobak/res/9regular_193-220.pngs
+SHA1-Digest: 7ogy+j9VgWsnHRsj+m5LIvPxgcc=
+
+Name: mobak/res/10regular_401-432_00FF00.png
+SHA1-Digest: LRE6jV4q/h4m14Kd5nuIAShbRaI=
+
+Name: mobak/res/popup_menu_item.png
+SHA1-Digest: trPKVkMQmN+pa2at/mJoTLexn78=
+
+Name: mobak/res/battle_bottom_mid.png
+SHA1-Digest: 5m+ga/ZDfdSoiV2LZtmxoJNwp18=
+
+Name: mobak/res/10regular_371-400_000000.png
+SHA1-Digest: +nQyozkQaV5PAbEvXv4vTObBNgQ=
+
+Name: mobak/help/-114
+SHA1-Digest: qqfZraDuxHL7+NAek4iOr14ZLHs=
+
+Name: mobak/help/-115
+SHA1-Digest: hvwjsQEY5z+fWL3RAJV1qvV6F9U=
+
+Name: mobak/res/10bold_160-191_00FF00.png
+SHA1-Digest: LCdNx89IXfSH2PCcC+9Cy2LYeSE=
+
+Name: mobak/res/9regular_371-400.pngs
+SHA1-Digest: E0YOKqRMbfz1MlFavIjgzqbfObw=
+
+Name: mobak/res/equipment.png
+SHA1-Digest: eAOaS6VmB/Z0U7v1W1rydRlViAA=
+
+Name: mobak/res/10regular_97-127_000000.png
+SHA1-Digest: r3qlrxIkPEHWK0F1IqCdm+j8E6I=
+
+Name: mobak/res/13regular_281-310_FFFFFF.png
+SHA1-Digest: /eZGaRs3zVe5WJ8ypntbMWWXilo=
+
+Name: mobak/res/meshok_o.png
+SHA1-Digest: O7Yeuq2s71zeu6uFAcXM1hIW6D8=
+
+Name: mobak/res/9regular_251-280_FFFFFF.png
+SHA1-Digest: UfY6q5OWBLa2jc6E5uv9KbavMuQ=
+
+Name: mobak/res/popup_menu_item_left_x.png
+SHA1-Digest: q85ApVmgCntqLKnx0kuHoa02FPQ=
+
+Name: mobak/res/10regular_160-191.pngs
+SHA1-Digest: 04LKs7H1miz4ZWkueVx+twfCr2o=
+
+Name: mobak/res/10bold_32-64.pngs
+SHA1-Digest: 98rzWtxuSG8JlIXwc18GX6UWCuQ=
+
+Name: mobak/res/arrow_top.png
+SHA1-Digest: q64gJnXosc1Q/AZ1I+0CIKO/rWA=
+
+Name: mobak/res/tiles_stone.png
+SHA1-Digest: VAmIVibdp6FAkGH7loF++a9dJb8=
+
+Name: mobak/res/10bold_97-127.pngs
+SHA1-Digest: wtEnn+uley59QxD5uVY891jCDpk=
+
+Name: resources.arsc
+SHA1-Digest: ct3usqAnT7vCBb8fS5JLHR4m4u8=
+
+Name: mobak/help/country.txt
+SHA1-Digest: A2RukYhZeRHj9B1bY9d/4swH/ew=
+
+Name: res/layout/midplistitem.xml
+SHA1-Digest: OpF4fFd4o9vYyw/GQab77HG+FTU=
+
+Name: mobak/res/modal_window_part6.png
+SHA1-Digest: IA4vLUFlvq18+NltG9Ia8DOqPPo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: JDwg0uSWv1jlPpw1Icd2FDu/elE=
+
+Name: mobak/res/11regular_193-220_999999.png
+SHA1-Digest: hAqqKsLfwX4jO4Weq2hu3DUxpU8=
+
+Name: mobak/res/7-6.png
+SHA1-Digest: Y2ZCiKPUeXHP4JMDLHpymSvUZsI=
+
+Name: mobak/res/9regular_311-340_FFFFFF.png
+SHA1-Digest: vIOkOknhwWLwsOQTnk0F6Ee8d4Q=
+
+Name: mobak/res/13regular_193-220_FFFFFF.png
+SHA1-Digest: R/9LbkBpPfcVJqYyflvvM4nFEL8=
+
+Name: mobak/res/10bold_341-370_00FF00.png
+SHA1-Digest: fBTpf9Tiu+iUwyTcW5KEQLQ/LMU=
+
+Name: jad.properties
+SHA1-Digest: sDKM9y+ASUcqrG+GFbi56UA+NT4=
+
+Name: mobak/res/2castle.png
+SHA1-Digest: jWuLJFnH2eYjB+YIRMvtTDeMBoE=
+
+Name: mobak/res/unites2.png
+SHA1-Digest: P8hFDMvVAnzIzHH/yJEmqsN3x2s=
+
+Name: mobak/res/clock.png
+SHA1-Digest: OJxjBdIiC5J/sq+54nEzwc34NP0=
+
+Name: mobak/res/popup_menu_selected_item_center_x.png
+SHA1-Digest: lP8MQk663fX7WYZTtIgYIrZjpIM=
+
+Name: mobak/res/11regular_281-310_999999.png
+SHA1-Digest: Wp4UDibfzak/Cv5B7i5Bnu7+Fts=
+
+Name: mobak/res/10regular_97-127_FFCC00.png
+SHA1-Digest: mlvlZDwu9VhYlDanuo+3fao1HqA=
+
+Name: mobak/res/10regular_311-340.pngs
+SHA1-Digest: sS15nXxFLr52jzcOSPNWLkqKUZs=
+
+Name: mobak/res/11regular_221-250.pngs
+SHA1-Digest: QIH0CcuWr+t8n54sWrldBpzobGw=
+
+Name: mobak/res/13regular_160-191.pngs
+SHA1-Digest: 1TFfea94E6xYvZ0xCTMZ2xd75T8=
+
+Name: mobak/res/3castle.png
+SHA1-Digest: egdZlX5Y/MlzIVkPBtcgt7m1io8=
+
+Name: mobak/res/itemCell.png
+SHA1-Digest: RiWw3UdJUUEslBm/Mb3WsP0B5qU=
+
+Name: classes.dex
+SHA1-Digest: Fzq7UUZyOTuL9vom3uEfx4QV1Fk=
+
+Name: mobak/res/4castle.png
+SHA1-Digest: vBEmC33zc5SHUzk/qVAhWMpwtxQ=
+
+Name: mobak/res/10bold_193-220.pngs
+SHA1-Digest: 6zzNf418LZCjrTcG3/+Zt4eMWmM=
+
+Name: mobak/res/10bold_160-191.pngs
+SHA1-Digest: 1dsdt5IZR7MCj60YGbeuIChG4Gc=
+
+Name: mobak/res/splash.bin2
+SHA1-Digest: Uc+OBDM7KhI5Ul+pIeM595RAYoA=
+
+Name: mobak/res/menu_item_center_x.png
+SHA1-Digest: 0YJvki2VDd5omeWOF9BD71N3Ruw=
+
+Name: res/drawable/icon.png
+SHA1-Digest: quP2ulpLjkISoTG7+XlFdeFYeDk=
+
+Name: mobak/res/bigclockfon.png
+SHA1-Digest: 5Omr58yAnJE6SeGJbzTpS/eM4W8=
+
+Name: mobak/res/5-2.png
+SHA1-Digest: Cgil8mcVj62OQjH1Awam0rNHyhw=
+
+Name: mobak/res/13regular_160-191_FFFFFF.png
+SHA1-Digest: GH4gCNS5skwyQwMqdJaf/bcuHKE=
+
+Name: mobak/res/10regular_32-64_00FF00.png
+SHA1-Digest: TqmDVRvEaZJ6/Sk3rpnUcaMRMwc=
+
+Name: mobak/res/battle_middle_top.png
+SHA1-Digest: ujuN7sJsutC0P8jeoi46yl2Y5/g=
+
+Name: mobak/res/decorSand.png
+SHA1-Digest: qoraeAfV2sV612H+oxrp3xB4qQ8=
+
+Name: mobak/res/10regular_193-220_00FF00.png
+SHA1-Digest: tfJ3keyTToaMINB/F4VMU7tXBKM=
+
+Name: mobak/res/cell.png
+SHA1-Digest: rbzICn5+uFJ/1fYq//ANJ/XFwok=
+
+Name: mobak/res/6.png
+SHA1-Digest: edCdFA9PlkQkyqBmx3YUwPa/+rY=
+
+Name: mobak/res/10regular_281-310_000000.png
+SHA1-Digest: zO63teXzcUXTCSwfJhJPcBeeCug=
+
+Name: mobak/res/herou-cursor.png
+SHA1-Digest: zqOn7SJQMXJOCEQOBzK2YTo4OiM=
+
+Name: mobak/res/fight-slides_a.png
+SHA1-Digest: d+3aQl7+/DmpkvAApF5ikW32oTo=
+
+Name: mobak/res/13regular_251-280_FFFFFF.png
+SHA1-Digest: zQGXsK0ytaorps8UKJUnANwSS6I=
+
+Name: mobak/res/13regular_341-370_FFFFFF.png
+SHA1-Digest: 6UHCWg+CKtythqY6V7K1d4RjGyo=
+
+Name: mobak/res/13regular_32-64_FFFFFF.png
+SHA1-Digest: Bn5gF2m+5fmZg9RF7EOweFsnKLw=
+
+Name: mobak/res/battle_bottom_corner.png
+SHA1-Digest: UQR6mZLTp1EF/1XXcjJ1hjeuxkk=
+
+Name: mobak/res/10regular_193-220.pngs
+SHA1-Digest: /VV0CY+0MqQqHny6o0PuSUcJiAY=
+
+Name: mobak/res/13regular_221-250_FFFFFF.png
+SHA1-Digest: izbtLiMulaxrzWSFJL4Sqa0IawY=
+
+Name: mobak/res/crystals.png
+SHA1-Digest: 959Xa/Y1q1f/RKpgwfmu1vgr16U=
+
+Name: mobak/res/9regular_251-280.pngs
+SHA1-Digest: 5sa8LGFzyUrDMv6jn2a6EQuVllw=
+
+Name: mobak/res/13regular_311-340.pngs
+SHA1-Digest: eKNacyDWO8v63JFodxHhg5mPQHE=
+
+Name: mobak/res/teleport.png
+SHA1-Digest: wRkTsVLsas0e01o05fbOckk90no=
+
+Name: mobak/res/popup_menu_item_center_x.png
+SHA1-Digest: ahmNkgn+TNBt1+r3I9GyWGOD88Q=
+
+Name: mobak/res/units_margin.bin
+SHA1-Digest: Ze01wGxNAJs0splx5domdHIn/lQ=
+
+Name: mobak/res/modal_window_part9.png
+SHA1-Digest: kAsY17L8woANUnYr66sipBUIrLo=
+
+Name: mobak/res/popup_menu_selected_item.png
+SHA1-Digest: 8UasBip+Zqb/5O9GciH0zw6KBy0=
+
+Name: mobak/res/logo.png
+SHA1-Digest: Ba1byxIdIamLNEyUyRB10cxnauc=
+
+Name: mobak/res/11regular_341-370_999999.png
+SHA1-Digest: axc1123o0mVv3iVMXobkcWoYMFc=
+
+Name: mobak/res/item-2.png
+SHA1-Digest: GRX7SJyatgNUXt/pqAovRczK7yQ=
+
+Name: mobak/res/money.png
+SHA1-Digest: 7Y+pHesHNGHHZBjxIzACjQCkD20=
+
+Name: mobak/res/10regular_371-400_FFCC00.png
+SHA1-Digest: snjJd3BP1TyEeOdlStGNHAJIQbQ=
+
+Name: mobak/res/9regular_401-432.pngs
+SHA1-Digest: gztTcTE2wu/WbYv9xXZSXbCtELg=
+
+Name: mobak/res/progressbar_position_center.png
+SHA1-Digest: /MiWyLwNCdJvqZ6XulGgmc7dVxw=
+
+Name: mobak/res/10regular_160-191_00FF00.png
+SHA1-Digest: ZNfa94kjrmz20MnJ3Fiszm2tN+E=
+
+Name: mobak/res/11regular_221-250_999999.png
+SHA1-Digest: ZSwzEH8P5jCKOjMU3tey/l4UwCs=
+
+Name: mobak/res/10regular_193-220_999999.png
+SHA1-Digest: fysN6Wloz2PEBH50FXdLk6uuhWE=
+
+Name: res/layout/main.xml
+SHA1-Digest: yZeBY9QMaOSFtXZydeiXN6A3KDE=
+
+Name: mobak/res/top_corner.png
+SHA1-Digest: wyopY4qE0LNRAY37q2vaddrjUnY=
+
+Name: mobak/res/10regular_341-370_FFCC00.png
+SHA1-Digest: E/2hw8KtcMdsxHlQ/SY1W+B0eCU=
+
+Name: mobak/res/11regular_160-191_999999.png
+SHA1-Digest: bDZwGL6n9hfmR0v63+Az4mxdgxU=
+
+Name: mobak/res/modal_window_part5.png
+SHA1-Digest: cxPxwsC8Q90wPti3PKNsmBgoEiI=
+
+Name: mobak/res/arrow_right.png
+SHA1-Digest: Tc+7vPkfab3qhni28tweOr1guSs=
+
+Name: res/layout/midpgauge.xml
+SHA1-Digest: Wq/ZwsY2E3oLtCP9drKHKAdzQTE=
+
+Name: mobak/res/10bold_251-280.pngs
+SHA1-Digest: GRZiZWidCbAmpderU2M+0lXuKB4=
+
+Name: mobak/res/4-1.png
+SHA1-Digest: 7j4lb/9RNufxIrj0JfA1/UU+yn8=
+
+Name: mobak/res/name_label_middle.png
+SHA1-Digest: JvzNMBaKYvNEK8iVVelggJ0BYUw=
+
+Name: mobak/res/10bold_281-310_00FF00.png
+SHA1-Digest: qPgfkzbc8xURq29E+s2n1fH39wg=
+
+Name: mobak/res/10regular_401-432_FFFFFF.png
+SHA1-Digest: /ffUzFiDiwtCcHwq3Ayzc3fFsj0=
+
+Name: mobak/res/split.gif
+SHA1-Digest: 9pWedaBAeWIrkBgfMMX7sJy0rq0=
+
+Name: mobak/res/modal_window_part2.png
+SHA1-Digest: xzUWiO7esDs3QO0QdaLVCwopjmw=
+
+Name: mobak/res/horizontal.png
+SHA1-Digest: bue+GjjG7L8USJjXSs7hTNXWjFk=
+
+Name: mobak/res/battle_over_deco.png
+SHA1-Digest: dfi0p6v+pNVuVat3COyeZb4qvPg=
+
+Name: mobak/res/modal_window_part10.png
+SHA1-Digest: echDCNdUT/JMOaFl168CpFpKxF8=
+
+Name: mobak/res/battle_bottom.png
+SHA1-Digest: c4Cjka/4UWF2ykxjEYSarbscFQg=
+
+Name: mobak/res/10bold_281-310.pngs
+SHA1-Digest: iLh/4Sv+uDc7bg84JcuWQuhwCUI=
+
+Name: mobak/res/crystals_x.png
+SHA1-Digest: vZhsig0/pUMxWdG4TuJp31dzfHU=
+
+Name: mobak/res/modal_window_part11.png
+SHA1-Digest: IQvusPDwdjTisi9Tc0idq69ZhbI=
+
+Name: mobak/res/11regular_311-340_999999.png
+SHA1-Digest: hKCjwyAz42F6nhB6nZsQFCIQgH4=
+
+Name: mobak/res/logo-240.gif
+SHA1-Digest: YOVgJ0ZVHc/iPcBeLGRZG0NGbLM=
+
+Name: mobak/res/9-8.png
+SHA1-Digest: LIKOB9Qn8LaR6fAMgIYVLpTzLPY=
+
+Name: mobak/res/10regular_281-310_00FF00.png
+SHA1-Digest: AKj227/W4L7ey8bmfqSWi2A3jgI=
+
+Name: mobak/res/10regular_221-250_00FF00.png
+SHA1-Digest: H5sGhniVEJ93jm2DLnz1jyRgA5o=
+
+Name: mobak/help/Language.txt
+SHA1-Digest: DDGx6nWbx8vfSzqiZeHV4lxcj0I=
+
+Name: mobak/res/10regular_281-310.pngs
+SHA1-Digest: v+uzLF7fOLA53ojSziRAvNi7FDU=
+
+Name: mobak/res/9regular_32-64_FFFFFF.png
+SHA1-Digest: UCTDo7+NbK3F8gsy6MizHokLVEg=
+
+Name: mobak/res/10regular_341-370_999999.png
+SHA1-Digest: 5zN5VzCWWfBBxEhAz/4+LURdKw4=
+
+Name: mobak/res/10regular_193-220_000000.png
+SHA1-Digest: EANkyCQ6dcqLyUccJelMuHiUnB8=
+
+Name: mobak/res/menu_item_right_x.png
+SHA1-Digest: zwJFU1hc05E3x04buntpLoUjmX4=
+
+Name: mobak/res/tiles_rocks.png
+SHA1-Digest: xMtGzPiJgqywO0sY7cdc5DnSXB8=
+
+Name: mobak/res/battle_top.png
+SHA1-Digest: QlsFh4lYNYjOBN1arpoW8Fkpoec=
+
+Name: mobak/res/modal_window_part1.png
+SHA1-Digest: IDJD1j7HIcyg+SlOet3Ksk6Kf9c=
+
+Name: mobak/res/tiles_snow.png
+SHA1-Digest: JBDeFibP0wtM7HTk3KrdWXbPiqo=
+
+Name: mobak/res/arrow_left.png
+SHA1-Digest: II7Qcd+rOn+QU61SQ4Bdz1pmIgE=
+
+Name: mobak/res/decorRocks.png
+SHA1-Digest: PXci+v/rA26cLPifYdw529Hf7vc=
+
+Name: mobak/res/modal_window_part12.png
+SHA1-Digest: jx9Ki9wmSjVk3xE25rSGteLiiZY=
+
+Name: mobak/res/battle_vertical_mid.png
+SHA1-Digest: 7uXH6g/FDjIv4STbodvr4HNxvMQ=
+
+Name: mobak/res/10regular_160-191_999999.png
+SHA1-Digest: vKy7k5jYT7Yih2o5CKx2YmcJcEQ=
+
+Name: mobak/res/10regular_65-96_000000.png
+SHA1-Digest: PpTR6/nEicaptN9qsvmv6v4/+PQ=
+
+Name: mobak/res/10regular_221-250_FFCC00.png
+SHA1-Digest: ObrAYdRoSLNsxBCaHd0NOYdRwps=
+
+Name: mobak/res/modal_window_part3.png
+SHA1-Digest: h/h2T2j4AQNeG5w6U7ma5UPHMA4=
+
+Name: mobak/res/crystal.png
+SHA1-Digest: Bm303Ujo9ZQt0YsRWQGu7BxYcU0=
+
+Name: mobak/res/decorSnow.png
+SHA1-Digest: yDVCuVtLCfFuezd5DbZRryThCU8=
+
+Name: mobak/res/5castle.png
+SHA1-Digest: ywTbMPG4PJAhPoSLr5gCUCD3hVU=
+
+Name: mobak/res/10regular_32-64_FFFFFF.png
+SHA1-Digest: FhrdrcU6Wdb5iIpdAam2QTRknf8=
+
+Name: mobak/res/itemCell1.png
+SHA1-Digest: /nPB0YHr/B7P+Mi+xCkp374oipI=
+
+Name: mobak/res/10regular_65-96_FFFFFF.png
+SHA1-Digest: DEHgJqZPuQ9Em9pSKUgTJBERb2U=
+
+Name: mobak/res/2-1.png
+SHA1-Digest: oIammweXTfxLdC7NNDhW51PtAn8=
+
+Name: res/layout/midpchoicegroup_e.xml
+SHA1-Digest: YH9rxyqfnyM3awheGBjqC2BMIE8=
+

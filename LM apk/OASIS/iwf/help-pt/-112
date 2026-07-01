@@ -1,0 +1,8 @@
+﻿0 Existem vários edifícios na cidade que podem ser melhorados até 10 vezes e cujas melhorias aumentarão as habilidades individuais do herói (heróis com o posto de Comandante e acima podem atualizar edifícios).
+0 O Templo dá um bônus de 5% de mana aos defensores da cidade.
+0 A Muralha dá um bônus de 5% de defesa aos defensores.
+0 A Forja dá um bônus de 5% de ataque aos defensores.
+0 A Torre dá um bônus de 5% de Primeiro Golpe aos defensores.
+0 O Mercado dá um bônus de 5% à receita da cidade.
+0 A Universidade dá 5% por nível à experiência ganha pelos membros da ordem na terra onde a cidade está localizada. Se a ordem possuir várias cidades na mesma terra, então o ganho de experiência vem apenas da universidade com o nível mais alto.
+0 A cidade gera uma receita a cada hora em tempo real. A receita padrão é 1.000.000 de moedas de ouro, mas pode ser aumentada através de melhorias no Mercado. A receita da cidade é dividida entre todos os membros da Ordem cujo posto não seja inferior a Cavaleiro.

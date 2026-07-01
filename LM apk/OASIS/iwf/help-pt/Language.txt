@@ -1,0 +1,346 @@
+
+1 Sair
+10 Senha
+100 Partir
+101 <%0%> restantes para o nível <%1%>
+102 Nível
+103 Características
+104 Habilidades
+105 Impossível
+106 Cancelar
+107 Nome
+108 Saúde
+109 Moral
+11 Login (e-mail fornecido no registro)
+110 de
+111 Movendo
+112 move <%0%> célula(s)
+113 limites
+114 ilimitado
+115 à distância
+116 corpo a corpo
+117 Defesa
+118 Opções
+119 Vazio
+12 Tamanho máximo de rajada (bytes)
+120 O baú está vazio.
+121 Limpar o cache
+122 Limpar
+123 Mana insuficiente
+124 Concordar
+125 Portal da Cidade
+126 Você não tem o item apropriado.
+127 Erro de conexão
+128 Você quer continuar esperando?
+129 Enviar
+13 Velocidade de rajada (seg)
+130 Discar / Cancelar máx
+131 Deixar tudo
+132 Você não tem pergaminhos mágicos.
+133 Você não tem itens.
+134 Experiência disponível
+135 Atenção
+136 Não há experiência disponível.
+137 Você atingiu o máximo de experiência disponível.
+138 Configurações do teclado
+139 Configurações de teclas de função
+14 Tentativas de reconexão
+140 Por favor pressione
+141 tecla de função esquerda
+142 tecla de função direita
+143 Configurações salvas
+144 Próximo nível
+145 Ainda há experiência disponível; se você sair agora, ela será perdida.
+146 Fechar
+147 Servidor desconectado, reconectando
+148 Aceitar
+149 Comprar / Vender
+15 Codificação
+150 Examinar
+151 Histórico
+152 Próxima página
+153 Página anterior
+154 Salas
+155 Mensagem para sala
+156 Enviar
+157 Responder
+158 Nova mensagem
+159 Mensagem privada
+16 Endereço do servidor
+160 Quem está aqui
+161 Fechar menu
+162 Voltar para sala
+163 Número
+164 Perigo
+165 Você não pode sair da cidade sem um exército.
+166 Você não pode atacar - é território neutral.
+167 Convite
+168 Seu login já está sendo usado em outro dispositivo.
+169 Voltar ao jogo
+17 Porta
+170 Autorização falhou. Verifique as configurações da sua conta no Menu Principal. Você pode fazer login aqui <?4?> Ir para o site?
+171 Versão
+172 Reserva
+173 Armazém
+174 Localizado em
+175 Dispensar
+176 Jogar fora
+179 Comprar Cristais
+18 Raça
+181 Economia
+182 Você não tem nada para oferecer em troca.
+183 Um exército inimigo quer se juntar a você.
+184 Você concorda?
+185 Sair do jogo?
+186 Dividir
+187 Mesclar
+19 Elfos
+190 Terminar turno
+191 Pegar tudo
+192 Tem certeza de que deseja sair e cancelar as alterações?
+193 Vestir tudo
+194 Cidade
+195 Você pode contratar tropas e comprar armas aqui.
+196 Vila
+197 Você pode reforçar seu exército aqui.
+198 Este baú pode conter itens úteis.
+199 Alguém deixou suas coisas aqui
+2 Jogar
+20 Anões
+200 Portal
+201 Você pode se teletransportar para outras Terras através de um Portal.
+202 Contratar
+203 Capturar
+204 Site
+205 Dinheiro insuficiente
+206 Para se teletransportar para <%0%> você deve pagar <%1%> moedas.
+207 <<<
+208 Atualizar
+21 Orcs
+210 Não há espaço suficiente na sua bolsa. Você pegou apenas alguns dos itens.
+211 Você não pode pegar este item - você não tem espaço na sua bolsa.
+212 Comprar Cristais
+213 Selecione seu país
+214 Selecione quantos Cristais
+215 Comprar Cristais
+216 Você não pode comprar Cristais no momento.
+217 moedas
+218 Criar
+219 Guilda do Clã
+22 Mortos-vivos
+220 Aplicação
+221 Candidatos
+222 Membros
+223 Promover
+224 Rebaixar
+225 Expulsar
+226 Aposentar
+227 Recusar
+228 Cidades
+229 Você não tem Cristais suficientes.
+23 Humanos
+230 Cristal
+232 Você pode trocar um Cristal por <%0%> moedas.
+233 Premium
+235 desde
+236 até
+237 Buscar
+238 Ocultar
+239 Mostrar
+24 Elfos
+240 OK
+241 Reclamar
+242 Moedas
+243 Cristais
+244 Você está prestes a reclamar de uma mensagem que recebeu. Continuar?
+245 Melhorar
+246 Você realmente quer dissolver este esquadrão?
+247 Você realmente quer largar este item?
+248 Convidar
+249 Mostrar dicas
+25 Anões
+250 Adicionar
+251 Deletar
+252 Ignorar
+253 3 horas
+254 6 horas
+255 24 horas
+256 1 semana
+257 Por um mês seu herói parecerá assim para outros jogadores. Continuar?
+258 Você pode mudar o ícone que representa seu herói no mapa. O custo dos ícones varia, tenha cuidado ao comprar. O custo dos ícones por seu número ordinal: 1 (ícone básico masculino) - grátis, 2 (ícone básico feminino) - grátis, 3 (ícone da primeira raça) - 10 cristais, 4 (dragão) - 10 cristais, 5 (mago) - 10 cristais, 6 (banshee) - 10 cristais, 7 (ícone da segunda raça) - 10 cristais, 8 (abóbora) - 30 cristais, 9 (boneco de neve) - 30 cristais, 10 (árvore de Natal) - 30 cristais, 11 (guerreiro de gelo) - 50 cristais, 12 (guerreiro) - 50 cristais, 13 (demônio) - grátis (disponível apenas para participantes do Beta Fechado 2023), 14 (camelo) - grátis (disponível apenas para participantes do Beta Fechado 2023), 15 (grande dragão negro) - grátis (disponível apenas para participantes do Beta Fechado 2023), 16 (varg) - 20 cristais, 17 (mago) - grátis (disponível para qualquer pessoa que registrou uma conta antes de 01/04/2024 00:00 horário de Moscou), 18 (palhaço) - 30 cristais, 19 (Assassino) - disponível gratuitamente apenas para personagens com o status de "Assassino", 20 (Titã) - disponível gratuitamente apenas para personagens com o status de "Titã", 21 (Guardião do Oásis) - disponível gratuitamente apenas para personagens com o status de "Guardião do Oásis", 22 (lutador) - 30 cristais, 23 (estegossauro) - 50 cristais, 24 - 33 (dragões) - 20 cristais, 34 (cabeça de abóbora) - 30 cristais, 35 (fantasma) - 30 cristais. O preço é para um mês de uso. Se você comprar um ícone que já está ativo no momento, ele é estendido, se for um novo, o mês começa a partir do momento atual.
+259 Ícone
+26 Orcs
+260 Chave de ativação de tempo
+261 Características
+262 Se desejar, você pode redistribuir seus pontos de experiência entre diferentes características. Um Cristal permite redistribuir <%0%> ponto(s) de experiência. Entre 1 e 50, quantos Cristais você está disposto a gastar nisso?
+263 Você está prestes a redistribuir suas estatísticas de habilidade. Você terá que pagar alguns Cristais por isso. Continuar?
+264 Doação
+265 Os deuses do Oásis podem mover você e seu exército para um lugar seguro e você não perderá nada. No entanto, há uma doação sugerida de <%0%> para esta intervenção divina.
+267 Amigo
+269 Diário
+27 Mortos-vivos
+270 Atual
+271 Concluído
+272 Falhou
+273 Artefatos
+274 Leilão
+275 Fórum
+276 Quer comprar?
+277 Este feitiço usará <%0%> de <%1%> ponto(s) de mana.
+279 Nome de usuário (é assim que você será visto no Fórum)
+28 Humanos
+280 Nome do herói
+281 Raça do herói
+282 Os elfos são uma raça muito reservada e isolada. Não há quase nenhum fato sobre como eles apareceram pela primeira vez em Quiltlands ou sobre sua cultura. Os elfos não podem usar itens feitos por outras raças e nunca contratam guerreiros alienígenas. As tropas dos elfos não são numerosas, mas são muito habilidosas em batalha. Os elfos têm excelentes habilidades mágicas.
+283 Os anões são práticos e ricos. Seus armazéns subterrâneos estão cheios de ouro; eles gastam em boas armas e armaduras. Não especialmente poderosos em combate direto, os anões podem muito bem disfarçar e esconder seus guerreiros. A defesa é seu ponto forte. A única raça que eles tratam amigavelmente são os humanos.
+284 Os orcs são uma raça agressiva. Seus guerreiros possuem alta velocidade e força ao atacar. No entanto, a defesa é seu ponto fraco. Os orcs frequentemente atacam locais, roubam cidades e escravizam civis, razão pela qual outras raças são hostis a eles. Os humanos são a única raça que tolera os orcs. Ao contrário de outras raças, os orcs não podem ter os Dragões, Magos e Banshees neutros se juntando a eles.
+285 Antigos necromantes podiam ressuscitar pessoas e outras criaturas dos mortos. Os ressuscitados foram chamados de Mortos-vivos e, como herdaram parte do ofício necromântico, têm desenvolvido e aperfeiçoado ao longo de milhares de anos. Agora os exércitos dos Mortos-vivos são numerosos e fortes. Eles possuem grandes habilidades mágicas. Alguns acreditam que foram os Mortos-vivos que estiveram envolvidos no colapso do que costumava ser um mundo sólido em uma colcha de retalhos de raças díspares. Exceto pelos humanos, todas as outras raças odeiam ferozmente os Mortos-vivos.
+286 Os heróis humanos não são muito fortes fisicamente, mas são líderes natos. Devido à sua alta tolerância aos outros, as pessoas podem usar equipamentos mágicos e empregar unidades de qualquer outra raça, exceto elfos.
+287 Registrar
+288 Registro
+289 Login (e-mail)
+29 Erro
+290 Você deve preencher todos os campos para concluir o registro.
+291 Senha (mínimo de 4 caracteres)
+293 Senha no registro
+296 Diversos
+297 Sinal vibratório em caso de ataque
+298 Ajuda
+299 Mostrar hora
+300 Eventos
+3 Configurações
+30 Formato de login inválido! Especifique o endereço de e-mail
+301 Você pode descobrir sobre as formas de comprar Cristais na página Perfil->Pagamentos.
+302 Notificações
+303 Login
+304 Entrar no jogo
+305 Cache limpo
+306 Comprar Cristais
+31 Não há conexão com o servidor. Verifique suas configurações de conexão e nossas redes sociais para relatórios de trabalho técnico. Além disso, certifique-se de ter a versão mais recente do jogo instalada. Se as razões do erro não puderem ser encontradas, entre em contato com nosso serviço de suporte técnico de qualquer maneira conveniente (há um link para o suporte técnico no menu inicial do jogo).
+310 Comprar Cristais
+311 Ativar efeitos sonoros
+312 Você quer comprar Cristais?
+313 Ativar música
+314 Solicitação de compra bem-sucedida. Sua conta de jogo será reabastecida em alguns minutos. Se você não recebeu seus Cristais, por favor, informe nosso suporte técnico.
+315 Comunidade VK
+316 Comprar com cartão de raspar
+317 Falha no login. Verifique suas configurações de conexão no Menu Principal.
+318 Volume do som
+319 Velocidade do herói
+32 Terra aleatória
+320 Carregando..
+322 Sobre o jogo
+323 Oasis (versão <%0%>)
+324 Suporte
+325 Acordo do usuário
+326 Política de privacidade
+327 Regras do jogo
+328 Sobre o jogo
+329 Comunidade VK
+330 Chat VK
+331 Canal Telegram
+332 Chat Telegram
+334 Redes sociais
+335 YouTube
+336 Renomear clã
+337 Selecionar / Cancelar tudo
+338 Alterar descrição
+339 Transferir o clã
+340 Mensagem para o clã
+341 Guarnição automática
+342 Expandir além dos cristais
+343 Expandir além das moedas
+344 Idioma
+345 Русский
+346 English
+347 Português
+33 Selecionar Terra
+34 Voltar
+35 Tente novamente mais tarde
+36 Pare!
+37 O mapa de campo está carregando... Você não pode sair da cidade por enquanto.
+38 Mapa
+39 Fugir
+40 Se você fugir do campo de batalha agora, você manterá dinheiro e itens, mas perderá seu exército.
+41 Continuar
+42 Sim
+43 Não
+44 Troca cancelada
+45 Troca concluída com sucesso
+46 Pergaminhos mágicos
+47 Atacar
+48 Loja
+49 Armazém
+5 Conexão
+50 Quartel
+51 Taverna
+52 Exército
+53 Amuletos
+54 Armadura
+55 Influência
+56 Esta unidade é hostil à sua raça.
+57 Este item pertence a uma raça inimiga ou seu Nível não é alto o suficiente.
+58 Você não pode contratar mais guerreiros. O tamanho do seu exército depende da sua Liderança. Você pode aumentá-la conforme progride para um Nível mais alto.
+59 Seu exército é muito grande.
+6 Sua conta
+60 Dinheiro insuficiente
+61 Espaço insuficiente na sua bolsa
+62 Entrar
+63 Atacar
+64 Todos
+65 Inimigo
+66 Recebidas
+67 Enviadas
+68 Partir
+69 Mover
+7 Selecionar
+70 Próximo
+71 Magia
+72 Ação
+73 Menu
+74 Informação
+75 Reconhecimento
+76 Usar magia
+77 Revisar
+78 Mensagem privada
+79 Mensagem
+8 Salvar
+80 Mensagens
+81 Chat
+82 Sala privada
+83 Troca
+84 Troca
+85 Sair do jogo
+86 Oferta
+87 Arma
+88 Outro
+89 Seu exército
+9 Oasis
+90 Vestir
+91 Tirar
+92 Oferta
+93 Herói
+94 Cruz
+95 Bolsa
+96 Saco
+97 Baú
+98 Centralizar visão
+99 Comprar
+990 Roda da Fortuna
+991 Comprar Cristais
+992 OK
+993 Posição do relógio
+994 Esquerda
+995 Direita
+996 Conexão Oasis
+997 Mantém conexão com o servidor do jogo
+998 Conectado ao servidor
+999 Permissão de Notificação
+1000 O Oasis usa notificações para manter a conexão com o servidor em modo de segundo plano. Sem esta permissão, a conexão com o servidor pode funcionar de forma instável.<%n%><%n%>Você pode desativar os sons de notificação nas configurações.
+1001 Permitir
+1002 Sem permissão de notificação, o aplicativo fechará ao minimizar. Você pode ativar as notificações mais tarde nas configurações do Android.
+1003 OK
+1004 Abrir Configurações
+1005 Aviso
+350 Ativar batalha automática
+351 Seu turno será jogado automaticamente. Continuar?

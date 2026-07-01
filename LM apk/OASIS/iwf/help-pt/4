@@ -1,0 +1,8 @@
+﻿0 Você pode vender ou comprar algumas coisas aqui. A linha superior mostra seus pertences, a linha inferior mostra o que você pode comprar. Para fazer uma compra, clique no item usando o botão central, selecione a quantidade usando os botões esquerdo e direito, depois selecione "Aceitar" no menu da tecla de função direita. Para comprar e vender mais rápido, você pode usar o botão "Discar / Cancelar máx" (clique em qualquer item e pressione este botão - o número máximo permitido de cópias deste item será selecionado para compra / venda. Se você pressionar novamente, este número será redefinido para zero). O botão "Selecionar / Cancelar tudo" permite selecionar todos os itens da bolsa do herói para venda, pressioná-lo novamente remove a seleção.
+1 - O número "7" é o número de itens na sua bolsa.
+2 - O número "12" é o número de itens selecionados.
+3 - O canto inferior esquerdo mostra a raça do item.
+4 - "142" indica o preço.
+5 - O número "3" mostra o nível do item.
+6 - Os itens que você pode vestir são marcados com uma marca verde. Você pode usar apenas aqueles itens que pertencem a raças amigas. O nível do item não deve exceder o seu para que você possa usá-lo.
+7 - Os itens que você não pode vestir são marcados com uma cruz vermelha. No entanto, você pode levá-los com você, vender ou trocar esses itens.
